@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-jolterra/static/css/main.ad81c0c3.chunk.css",
+    "main.js": "/test-jolterra/static/js/main.5baa5a3c.chunk.js",
+    "main.js.map": "/test-jolterra/static/js/main.5baa5a3c.chunk.js.map",
+    "runtime-main.js": "/test-jolterra/static/js/runtime-main.b7522063.js",
+    "runtime-main.js.map": "/test-jolterra/static/js/runtime-main.b7522063.js.map",
+    "static/js/2.1c865aee.chunk.js": "/test-jolterra/static/js/2.1c865aee.chunk.js",
+    "static/js/2.1c865aee.chunk.js.map": "/test-jolterra/static/js/2.1c865aee.chunk.js.map",
+    "static/js/3.66d2cbeb.chunk.js": "/test-jolterra/static/js/3.66d2cbeb.chunk.js",
+    "static/js/3.66d2cbeb.chunk.js.map": "/test-jolterra/static/js/3.66d2cbeb.chunk.js.map",
+    "index.html": "/test-jolterra/index.html",
+    "static/css/main.ad81c0c3.chunk.css.map": "/test-jolterra/static/css/main.ad81c0c3.chunk.css.map",
+    "static/js/2.1c865aee.chunk.js.LICENSE.txt": "/test-jolterra/static/js/2.1c865aee.chunk.js.LICENSE.txt",
+    "static/media/feature.1f136978.svg": "/test-jolterra/static/media/feature.1f136978.svg",
+    "static/media/feature2.66021451.svg": "/test-jolterra/static/media/feature2.66021451.svg",
+    "static/media/feature3.40cdf407.svg": "/test-jolterra/static/media/feature3.40cdf407.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7522063.js",
+    "static/js/2.1c865aee.chunk.js",
+    "static/css/main.ad81c0c3.chunk.css",
+    "static/js/main.5baa5a3c.chunk.js"
+  ]
+}
