@@ -1,0 +1,52 @@
+.intro {
+  text-align: center;
+  width: fit-content;
+  margin: 55px auto;
+  width: 98%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.intro > h1 {
+  font-size: 52px;
+}
+
+.h1_blue {
+  margin: 5px 10px;
+  color: #03a9f4;
+}
+
+.intro > p {
+  width: 98%;
+  color: #848b94;
+  font-size: 24px;
+}
+
+.btn-callout {
+  border: 0;
+  border-radius: 5px;
+
+  margin-top: 75px;
+  background-color: #03a9f4;
+  color: #fff;
+  font-weight: bold;
+  font-family: inherit;
+  font-size: 18px;
+  height: 60px;
+  width: 160px;
+}
+
+@media screen and (max-width: 320px) {
+  .btn-callout {
+    margin-top: 35px;
+  }
+
+  .intro > h1 {
+    font-size: 48px;
+  }
+  .intro > p {
+    font-size: 18px;
+  }
+}

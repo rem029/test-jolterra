@@ -1,0 +1,12 @@
+.section__main {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  height: 628px;
+}
+
+@media screen and (max-width: 500px) {
+  .section__main {
+    height: 100vh;
+  }
+}
