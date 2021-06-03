@@ -5,9 +5,9 @@ const Footer = () => {
     <div className="footer">
       <div>Logo</div>
       <div>
-        <a>Links</a>
-        <a>Links</a>
-        <a>Links</a>
+        <a href="#" >Links</a>
+        <a href="#" >Links</a>
+        <a href="#" >Links</a>
       </div>
       <div>icons</div>
       <div>copyright</div>
