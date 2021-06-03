@@ -1,6 +1,5 @@
 {
   "name": "test-jolterra",
-  "homepage": "http://rem029.github.io/test-jolterra",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
