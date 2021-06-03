@@ -1,5 +1,16 @@
 import { HiOutlineChartBar } from "react-icons/hi";
 
+import {
+  AiFillGithub,
+  AiOutlineTwitter,
+  AiFillYoutube,
+  AiFillLinkedin,
+} from "react-icons/ai";
+
+import { BiRss } from "react-icons/bi";
+
+import { FaFacebook } from "react-icons/fa";
+
 import "../styles/footer.css";
 
 const Footer = () => {
@@ -7,15 +18,27 @@ const Footer = () => {
     <div className="footer">
       <div className="footer__logo">
         <HiOutlineChartBar />
-        <h1>Jolterra</h1>
+        <h4>Jolterra</h4>
       </div>
       <div className="footer__links">
-        <a href="http://rem029.github.io/test-jolterra">Links</a>
-        <a href="http://rem029.github.io/test-jolterra">Links</a>
-        <a href="http://rem029.github.io/test-jolterra">Links</a>
+        <a href="https://jolterra.netlify.app/">Home</a>
+        <a href="https://jolterra.netlify.app/">About</a>
+        <a href="https://jolterra.netlify.app/">Docs</a>
+        <a href="https://jolterra.netlify.app/">Prices</a>
       </div>
-      <div className="footer__icons">icons</div>
-      <div className="footer__copyright">copyright</div>
+      <div className="footer__social">
+        <AiFillGithub />
+        <FaFacebook />
+        <AiOutlineTwitter />
+        <AiFillYoutube />
+        <AiFillLinkedin />
+        <span>@</span>
+        <BiRss />
+      </div>
+      <div className="footer__copyright">
+        © Copyright 2021 Jolterra. Powered with ♥ by
+        <a href="https://jolterra.netlify.app/"> Jolterra</a>
+      </div>
     </div>
   );
 };
