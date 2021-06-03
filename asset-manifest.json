@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-jolterra/static/css/main.ad81c0c3.chunk.css",
-    "main.js": "/test-jolterra/static/js/main.5baa5a3c.chunk.js",
-    "main.js.map": "/test-jolterra/static/js/main.5baa5a3c.chunk.js.map",
+    "main.js": "/test-jolterra/static/js/main.d05d9b6b.chunk.js",
+    "main.js.map": "/test-jolterra/static/js/main.d05d9b6b.chunk.js.map",
     "runtime-main.js": "/test-jolterra/static/js/runtime-main.b7522063.js",
     "runtime-main.js.map": "/test-jolterra/static/js/runtime-main.b7522063.js.map",
     "static/js/2.1c865aee.chunk.js": "/test-jolterra/static/js/2.1c865aee.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.b7522063.js",
     "static/js/2.1c865aee.chunk.js",
     "static/css/main.ad81c0c3.chunk.css",
-    "static/js/main.5baa5a3c.chunk.js"
+    "static/js/main.d05d9b6b.chunk.js"
   ]
 }
