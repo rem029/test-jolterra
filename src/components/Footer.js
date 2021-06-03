@@ -36,8 +36,10 @@ const Footer = () => {
         <BiRss />
       </div>
       <div className="footer__copyright">
-        © Copyright 2021 Jolterra. Powered with ♥ by
-        <a href="https://jolterra.netlify.app/"> Jolterra</a>
+        <span>
+          © Copyright 2021 Jolterra. Powered with ♥ by
+          <a href="https://jolterra.netlify.app/">Jolterra</a>
+        </span>
       </div>
     </div>
   );

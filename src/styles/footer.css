@@ -60,9 +60,11 @@
   align-items: center;
   font-size: 14px;
   color: #a0aec0;
+  text-align: center;
 }
 
-.footer__copyright > a {
+.footer__copyright > span > a {
+  padding: 0;
   text-decoration: none;
   margin: 0 5px;
   color: #03a9f4;
