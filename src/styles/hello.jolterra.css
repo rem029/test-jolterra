@@ -1,0 +1,45 @@
+.hello_jolterra {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f7fbff;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hello_jolterra_logo {
+  font-size: 48px;
+  color: #03a9f4;
+}
+
+.hello_jolterra_text {
+  opacity: 0;
+  transform: translateY(-20px);
+  transition: all 2s;
+  transition-delay: 0.5s;
+}
+
+.text-show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.hello_jolterra_btn-callout {
+  border: 0;
+  border-radius: 5px;
+  background-color: #03a9f4;
+  margin-top: 30px;
+  color: #fff;
+  font-weight: bold;
+  font-family: inherit;
+  font-size: 18px;
+  height: 60px;
+  width: 160px;
+}
+
+.btn-callout:hover {
+  border: 2px solid #fff;
+}
